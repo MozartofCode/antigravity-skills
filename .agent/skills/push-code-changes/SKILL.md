@@ -6,7 +6,7 @@ User has finished a chunk of work and wants to safely and cleanly push their cod
 
 Get the user’s changes pushed by:
 - Ensuring the correct files are staged
-- Creating a clear, meaningful commit message
+- Creating a clear, meaningful commit message that briefly describes the changes
 - Pushing to the correct branch without surprises
 
 Do this quickly and confidently so they can move on.
